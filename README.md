@@ -47,6 +47,10 @@ This project includes various **visualizations** for better insights:
 - **Git & GitHub** (for version control and project hosting)
 
 ## 🚀 Steps to Run the Project
-1️⃣ **Clone the repository** to your local machine or open it in **Google Colab**.
-```bash
-git clone https://github.com/your-username/your-repo.git
+1️⃣ Load the dataset into Colab.
+2️⃣ Run the code to analyze the data and generate visualizations.
+3️⃣ Upload updates back to GitHub using:
+Insights & Findings
+🔹 Social Media consistently outperforms Field Sales and Tally Data.
+🔹 Some teams have higher investment but lower sales, indicating inefficiencies.
+🔹 Weekly sales fluctuate, and peak sales often occur in certain weeks.
